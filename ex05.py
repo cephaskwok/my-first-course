@@ -8,6 +8,7 @@ hair= "brown"
 
 # variables must start from letters but not numerals
 
+# F-String= (f.......{XXXXX}) 冇 f run唔到 {}入面嘅嘢
 print (f"Let's talk about {name}.")
 print (f"He's {height} inches tall.")
 print (f"He's {weight} pounds heavy.")
