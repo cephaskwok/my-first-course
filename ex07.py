@@ -1,7 +1,7 @@
 print("Mary had a little lamb.")
 print("Its fleece was white as {}.".format('snow'))
 
-#.format指示要填返前面個｛｝入面嘅嘢，填個SNOW字入去，後面寫咗個STRING SNOW is a string with a word in it.
+#.format指示要填返前面個｛｝入面嘅嘢，填個SNOW字入去，後面寫咗個STRING，SNOW is a string with a word in it.
 
 print("And everywhere that Mary went.")
 print("." * 10) # what'd that do?
